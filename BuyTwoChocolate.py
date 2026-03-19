@@ -12,7 +12,7 @@ def buyChoco(prices, money):
         return money
 
 
-prices = [1, 2, 2]
+prices = [1, 2, 3]
 money = 3
 
 # Los dos más baratos son 1 y 2 → total = 3
